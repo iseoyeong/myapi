@@ -1,0 +1,9 @@
+{
+  "DB" : {
+    "user" : "admin",
+    "password" : "adversarial23",
+    "host" : "database-1.ctgb77tye88l.ap-northeast-2.rds.amazonaws.com",
+    "port" : 3306,
+    "database" : "mydb"
+  }
+}
